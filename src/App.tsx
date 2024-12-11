@@ -1,7 +1,7 @@
 import React from 'react';
 import { Scene } from './components/3d/Scene';
 import { Navigation } from './components/Navigation';
-import { Hero } from './components/sections/Hero';
+import { Hero } from './components/Hero';
 import { Projects } from './components/sections/Projects';
 import { Skills } from './components/sections/Skills';
 
